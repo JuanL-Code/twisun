@@ -2,6 +2,91 @@
 
 <h3>Registro</h3>
 
+
+<br />
+
+
+
+    <table class="table">
+
+        <tr>
+            <td>Nombre:</td>
+            <td><input type="text" /></td>
+            <td>Apellido:</td>
+            <td><input type="text" /></td>
+            <td>Fecha de nacimiento:</td>
+            <td><input type="date" /></td>
+        </tr>
+
+        <tr>
+            <td>Correo:</td>
+            <td><input type="text" /></td>
+            <td>Pais:</td>
+            <td><input type="text" /></td>
+            <td>Ciudad</td>
+            <td><input type="text" /></td>
+        </tr>
+
+        <tr>
+            <td>Genero:</td>
+
+            <td><input type="text" /></td>
+
+            <td>Contraseña:</td>
+            <td><input type="password" /></td>
+            <td></td>
+            <td></td>
+
+        </tr>
+
+
+
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="button" value="Salvar" @onclick="SaveUser" />
+                <input type="button" value="Cancelar" />
+
+                <hr />
+
+                <p>@userSaved</p>
+
+                
+            </td>
+
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+
+
+        </tr>
+
+    </table>
+
+
+
+
+
+
+
+
 @code {
+
+
+    string userSaved = "";
+
+    protected async Task SaveUser()
+    {
+    
+        userSaved = "Usuario creado con exito";
+    
+    
+    }
+
+
+
+
+
 
 }

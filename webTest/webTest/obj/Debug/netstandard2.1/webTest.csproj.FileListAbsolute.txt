@@ -347,6 +347,6 @@ D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\webTest.dll
 D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\webTest.pdb
 D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Registro.razor.g.cs
 D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\Razor\Pages\Registro.razor.g.cs
-D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\integrity\UZOvYqdbJm7vsEuMD7KedNAdj59NEs-j615qmbKfWOk=.hash
-D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\integrity\dBExGhiEpC2-4E6-qfZz1UV2WyjS2p1vz0t6m7h9vwY=.hash
-D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\integrity\i7YIRt8vNowiz5H2y4wp_YD4tUpkGjYRj6VCOBXI4F0=.hash
+D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\integrity\mKn-sxveBA25Vr5hjztxrfnQOfAzQqpDVH-DtzbHDRM=.hash
+D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\integrity\jSqBIDbRk4fCTOPWS7Yg-XPmeyFjvoNV2Zchwqe90q8=.hash
+D:\Repos\twisun\webTest\webTest\obj\Debug\netstandard2.1\integrity\ZyEP9cWDAcOVKfXcoko3fHMWS8Jj0j4UrK10LvO9-wI=.hash

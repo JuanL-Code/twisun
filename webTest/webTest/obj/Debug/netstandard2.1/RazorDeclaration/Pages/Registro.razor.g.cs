@@ -83,6 +83,27 @@ using webTest.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 74 "D:\Repos\twisun\webTest\webTest\Pages\Registro.razor"
+       
+
+
+    string userSaved = "";
+
+    protected async Task SaveUser()
+    {
+    
+        userSaved = "Usuario creado con exito";
+    
+    
+    }
+
+
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
